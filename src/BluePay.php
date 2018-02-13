@@ -7,7 +7,7 @@
 *
 */
 
-namespace BluePay\bluepay;
+namespace Margules\bplib;
 
 class BluePay { 
     

@@ -1,6 +1,6 @@
 <?php
 
-namespace BluePay\bluepay;
+namespace Margules\bplib;
 
 use Illuminate\Support\ServiceProvider;
 

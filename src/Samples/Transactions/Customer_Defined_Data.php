@@ -9,7 +9,7 @@
 * an approval and even dollar amounts will return a decline.
 */
 
-use BluePay\bluepay\BluePay;
+use Margules\bplib\BluePay;
 
 $payment = new BluePay();
 

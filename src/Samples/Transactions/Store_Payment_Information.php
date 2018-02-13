@@ -8,7 +8,7 @@
 * BluePay to be used for further transactions.
 */
 
-use BluePay\bluepay\BluePay;
+use Margules\bplib\BluePay;
 
 $payment = new BluePay();
 

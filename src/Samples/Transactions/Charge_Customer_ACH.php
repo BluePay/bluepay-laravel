@@ -6,7 +6,7 @@
   * against a customer using test payment information.
   *
   */
-use BluePay\bluepay\BluePay;
+use Margules\bplib\BluePay;
 
 $payment = new BluePay();
 

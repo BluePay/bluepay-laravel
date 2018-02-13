@@ -1,10 +1,10 @@
 {
-    "name": "bplib/bluepay",
+    "name": "Margules/bplib",
     "description": "Sample Laravel Integration of BluePay API",
     "license": "MIT",
     "authors": [
         {
-            "name": "BluePay",
+            "name": "Eric Margules",
             "homepage": "https://www.bluepay.com"
         }
     ],
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BluePay\\": "BluePay/bluepay/src/"
+            "Margules\\": "Margules/bplib/src/"
         }
     }
 }

@@ -10,7 +10,7 @@
 * updated rebilling cycle.
 */
 
-use BluePay\bluepay\BluePay;
+use Margules\bplib\BluePay;
 
 $rebill = new BluePay();
 

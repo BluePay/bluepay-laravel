@@ -1,6 +1,6 @@
 <?php
 
-namespace BluePay\bluepay\Facades;
+namespace Margules\bplib\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

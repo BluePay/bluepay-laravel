@@ -4,7 +4,7 @@
 * This code sample creates a recurring payment charging $15.00 per month for one year.
 */
 
-use BluePay\bluepay\BluePay;
+use Margules\bplib\BluePay;
 
 $rebill = new BluePay();
 
