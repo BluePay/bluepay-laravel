@@ -1,0 +1,20 @@
+{
+    "name": "bluepay/bluepay",
+    "description": "Sample Laravel Integration of BluePay API",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BluePay",
+            "homepage": "https://www.bluepay.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "illuminate/support": "-5"
+    },
+    "autoload": {
+        "psr-4": {
+            "BluePay\\": "BluePay/bluepay/src/"
+        }
+    }
+}
