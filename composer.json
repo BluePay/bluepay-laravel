@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Margules\\": "margules/bplib/src/"
+            "Margules\\bplib\\": "margules/bplib/src/"
         }
     }
 }
