@@ -9,8 +9,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "psr-4": {
-        "Margules\\": "src/"
-    },
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Margules\\bplib\\": "src/"
+        }
+    }
 }
