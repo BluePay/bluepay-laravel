@@ -9,5 +9,8 @@
         }
     ],
     "minimum-stability": "dev",
+    "psr-4": {
+        "Margules\\": "src/"
+    },
     "require": {}
 }
