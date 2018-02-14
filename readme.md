@@ -9,8 +9,8 @@
 	"Margules\bplib\BluePayServiceProvider::class," to "providers" array
 	"'BluePay' => Margules\bplib\Facades\BluePay::class," to "aliases" array
 
-## 3. Include namespace to run a transaction
-	Place 'use Margules\bplib\BluePay;' at the top of files you wish to run transactions.
-
-## 4. Test transaction using sample file
+## 3. Test transaction using sample file
 	Ex. 'require_once('Samples/Transactions/Charge_Customer_CC.php');'
+
+## 4. Include namespace to run a transaction
+	Place 'use Margules\bplib\BluePay;' at the top of files you wish to run transactions.
