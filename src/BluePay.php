@@ -122,6 +122,10 @@ class BluePay {
         $this->mode = getenv("BP_MODE");
     }
 
+    public function init(){
+        return new Bluepay;
+    }
+
     // Performs a SALE
     public function sale($amount, $masterID=null) {
         $this->api = 'bp10emu';
